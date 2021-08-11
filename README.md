@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gnoori
+- 👀 I’m interested in Software/Web Development
+- 🌱 I’m currently learning Algorithms/Advanced Java
